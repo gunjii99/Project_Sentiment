@@ -1,0 +1,17 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+filter_roberta_json.ipynb
+HuggingFace.ipynb
+preprocess.ipynb
+BoW.ipynb
+robust-sentiment.ipynb
+full_data/
+full data/sentiment_score.json
